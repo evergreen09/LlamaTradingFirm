@@ -2,3 +2,6 @@
 *.csv
 *.json
 *.data
+data_playground.ipynb
+.cache/
+tmp/
